@@ -1,1 +1,2 @@
-# DeiT-1K-INTR
+# INTR-Encoders
+INTR with different encoder backbones
